@@ -1,0 +1,1 @@
+const subtrair = (numA, numB) => numA - numB;

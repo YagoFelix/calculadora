@@ -1,0 +1,1 @@
+const multiplicar = (numA, numB) => numA * numB;

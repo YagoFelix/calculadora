@@ -1,0 +1,1 @@
+const dividir = (numA, numB) => numA / numB;
