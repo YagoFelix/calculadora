@@ -1,1 +1,5 @@
-const subtrair = (numA, numB) => numA - numB;
+function subtrair (a, b){
+    return a - b;
+}
+
+module.exports = subtrair;

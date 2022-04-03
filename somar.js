@@ -1,3 +1,5 @@
-const somar = (numA, numB) => numA + numB;
+function somar (a, b){
+    return a + b;
+}
 
 module.exports = somar;
